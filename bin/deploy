@@ -16,8 +16,8 @@ while [[ $# > 0 ]]; do
         -h|--help)
         echo $USAGE_MSG
         exit 0
-        ;;
-        -u|--user)
+        # ;;
+        # -u|--user)
         ;;
         -s|--src)
         SRC_BRANCH="$2"
