@@ -3,7 +3,7 @@ layout: post
 title:  Fighting cancerous cells resistance
 date:   2023-03-31 08:00:00
 description: chemotherapy treatment
-tags: chemotherapy, cancer, risk-factors, therapy 
+tags: false 
 categories: health-posts
 ---
 
