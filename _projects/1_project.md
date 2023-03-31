@@ -13,6 +13,7 @@ I sat up an online presence through a personal website on September 2022.
 The idea of this project arose in August 2022 after a one year break from coding.
 I had basics knowledge on programming and it took me a month writing down and reading documentation to achieve this goal. Then, I choosed Jekyll and GitHub.
 Over four months I have deepened my understanding on various aspects of static web development.
+You can find the [source code](https://github.com/CMagnac/CMagnac-first-blog) on my GitHub account.
 
 ## 2. Deadlines
 

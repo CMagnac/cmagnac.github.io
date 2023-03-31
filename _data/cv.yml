@@ -92,7 +92,7 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/CMagnac/CMagnac.github.io">My Blog</a>
+    - title: <a href="https://github.com/CMagnac/CMagnac-first-blog">My first blog</a>
       year: 2022 - 2023
       description: My first blog build with Jekyll and Minima theme.
     - title: <a href="https://github.com/CMagnac/python-mini-project">Mini project</a>
@@ -106,3 +106,4 @@
       items: 
         - Epidemiology of candidemia from the 80s to the present day, new therapeutic strategies.
         - Honors
+        - <a href="https://www.idref.fr/119908964">Identifiers and referentials</a>

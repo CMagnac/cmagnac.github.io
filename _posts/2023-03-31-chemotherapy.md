@@ -11,10 +11,12 @@ In 2020, 347,000 people were treated with chemotherapy in France. A major concer
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/icans.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/icans.jpg" title="Strasbourg Europe Cancer Institute" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
+<div class="caption">
+    Strasbourg Europe Cancer Institute
+</div>
 ## Cancer types and risk-factors
 
 Cancer is one of the leading causes of death in the richest countries. Four types of cancer represent 78% of chemotherapy sessions. Although some cancers cannot be avoided, having a healthy lifestyle may play an important role.
@@ -25,17 +27,17 @@ The global hospital activity related to chemotherapy has increased since 2016. H
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/chart1.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/chart1.png" title="Pie chart of cancer types treat by chemotherapy in France" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/chart2.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/chart2.png" title="Line chart of number of hospitalizations with chemotherapy in France" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
     Two figures on chemotherapy in France
 </div>
 
-Python code for the pie chart.
+Python code for **the pie chart**.
 
 ```python
 import pandas as pd
@@ -45,7 +47,7 @@ df.groupby(['cancer type']).sum().plot(kind="pie", y="", autopct='%1.0f%%', lege
                                        title="Cancer types treat by chemotherapy in France")
 ```
 
-Python code for the line chart.
+Python code for **the line chart**.
 
 ```python
 import pandas as pd
