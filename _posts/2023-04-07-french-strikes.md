@@ -3,7 +3,7 @@ layout: post
 title:  French Strikes
 date:   2023-04-07 08:00:00
 description: The double-edged sword 
-tags: law
+tags: false
 categories: actuality
 ---
 

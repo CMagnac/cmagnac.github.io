@@ -67,37 +67,8 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
-gitlab_username: # your GitLab user name
-twitter_username: # your Twitter handle
-mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: # your LinkedIn user name
-telegram_username: # your Telegram user name
-scholar_userid: # your Google Scholar ID
-semanticscholar_id: # your Semantic Scholar ID
-whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: # your ORCID ID
-medium_username: # your Medium username
-quora_username: # your Quora username
-publons_id: # your ID on Publons
-osf_id: # your OSF ID
-research_gate_profile: # your profile on ResearchGate
-blogger_url: # your blogger URL
-work_url: # work page URL
-keybase_username: # your keybase user name
-wikidata_id: # your wikidata id
-wikipedia_id: # your wikipedia id (Case sensitive)
-dblp_url: # your DBLP profile url
-stackoverflow_id: # your stackoverflow id
-kaggle_id: # your kaggle id
-lastfm_id: # your lastfm id
-spotify_id: # your spotify id
-pinterest_id: # your pinterest id
-unsplash_id: # your unsplash id
-instagram_id: # your instagram id
-facebook_id: # your facebook id
-youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
-discord_id: # your discord id (18-digit unique numerical identifier)
+github_username: CMagnac
+linkedin_username: Cyrille Magnac
 
 contact_note: >
   Please feel free to contact me by email if you need any further information.
@@ -116,7 +87,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: The wandering pharmacist # blog_name will be displayed in your blog page
+blog_name: The Wandering Pharmacist # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: Exploring life & health
 permalink: /blog/:year/:title/
@@ -249,47 +220,6 @@ jekyll-archives:
     category: '/blog/category/:name/'
 
 display_tags: false # this tags will be dispalyed on the front page of your blog
-
-# -----------------------------------------------------------------------------
-# Jekyll Scholar
-# -----------------------------------------------------------------------------
-
-# scholar:
-
-#   last_name: [Einstein]
-#   first_name: [Albert, A.]
-
-#   style: apa
-#   locale: en
-
-#   source: /_bibliography/
-#   bibliography: papers.bib
-#   bibliography_template: bib
-#   # Note: if you have latex math in your bibtex, the latex filter
-#   # preprocessing may conflict with MathJAX if the latter is enabled.
-#   # See https://github.com/alshedivat/al-folio/issues/357.
-#   bibtex_filters: [latex, smallcaps, superscript]
-
-#   replace_strings: true
-#   join_strings: true
-
-#   details_dir: bibliography
-#   details_layout: bibtex.html
-#   details_link: Details
-
-#   query: "@*"
-
-badges: # Display different badges for your pulications
-  altmetric_badge: true # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
-  dimensions_badge: true # Dimensions badge (https://badge.dimensions.ai/)
-
-# Filter out certain bibtex entry keywords used internally from the bib output
-filtered_bibtex_keywords: [abbr, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, preview, altmetric]
-
-# Maximum number of authors to be shown for each publication (more authors are visible on click)
-# max_author_limit: 3  # leave blank to always show all authors
-# more_authors_animation_delay: 10  # more authors are revealed on click using animation; smaller delay means faster animation
-
 
 # -----------------------------------------------------------------------------
 # Jekyll Link Attributes
