@@ -4,7 +4,7 @@ title:  French Strikes
 date:   2023-04-07 08:00:00
 description: The double-edged sword 
 tags: false
-categories: actuality
+categories: Nohealth-actuality
 ---
 
 The 49.3 is a constitutional provision that the government can use to pass a bill without a vote. It has been used by Elizabeth Born eleven times since 2022, which engages the government's responsibility. Only a motion of censure can be voted to kick off the law.
@@ -88,8 +88,8 @@ for container in ax.containers:
     ax.bar_label(container,padding=1,fontsize=6)
 ```
 
-> ### References
->
-> 1. The [official data](https://www.assemblee-nationale.fr/dyn/decouvrir-l-assemblee/engagements-de-responsabilite-du-gouvernement-et-motions-de-censure-depuis-1958) about the government commitments and censorship motions.
-> 2. An [article](https://www.vie-publique.fr/fiches/19494-le-recours-larticle-493-de-la-constitution) on the 49.3.
-> 3. The [data](https://fr.wikipedia.org/wiki/Mouvement_social_contre_le_projet_de_r%C3%A9forme_des_retraites_en_France_de_2023#Nombre_de_manifestants_et_manifestantes) that I used for the number of demonstrators chart.
+### References
+
+1. The [official data](https://www.assemblee-nationale.fr/dyn/decouvrir-l-assemblee/engagements-de-responsabilite-du-gouvernement-et-motions-de-censure-depuis-1958) about the government commitments and censorship motions.
+2. An [article](https://www.vie-publique.fr/fiches/19494-le-recours-larticle-493-de-la-constitution) on the 49.3.
+3. The [data](https://fr.wikipedia.org/wiki/Mouvement_social_contre_le_projet_de_r%C3%A9forme_des_retraites_en_France_de_2023#Nombre_de_manifestants_et_manifestantes) that I used for the number of demonstrators chart.
