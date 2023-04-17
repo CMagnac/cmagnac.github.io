@@ -88,8 +88,10 @@ for container in ax.containers:
     ax.bar_label(container,padding=1,fontsize=6)
 ```
 
+<br>
+
 ### References
 
-1. The [official data](https://www.assemblee-nationale.fr/dyn/decouvrir-l-assemblee/engagements-de-responsabilite-du-gouvernement-et-motions-de-censure-depuis-1958) about the government commitments and censorship motions.
-2. An [article](https://www.vie-publique.fr/fiches/19494-le-recours-larticle-493-de-la-constitution) on the 49.3.
-3. The [data](https://fr.wikipedia.org/wiki/Mouvement_social_contre_le_projet_de_r%C3%A9forme_des_retraites_en_France_de_2023#Nombre_de_manifestants_et_manifestantes) that I used for the number of demonstrators chart.
+* The [official data](https://www.assemblee-nationale.fr/dyn/decouvrir-l-assemblee/engagements-de-responsabilite-du-gouvernement-et-motions-de-censure-depuis-1958) about the government commitments and censorship motions.
+* An [article](https://www.vie-publique.fr/fiches/19494-le-recours-larticle-493-de-la-constitution) on the 49.3.
+* The [data](https://fr.wikipedia.org/wiki/Mouvement_social_contre_le_projet_de_r%C3%A9forme_des_retraites_en_France_de_2023#Nombre_de_manifestants_et_manifestantes) that I used for the number of demonstrators chart.

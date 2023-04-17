@@ -74,30 +74,32 @@ INN (International Nonproprietary Names)
 
 <br>
 
-### Moventig
+## Moventig
 
-#### 1. Presentation
+### 1. Presentation
 
 * Form: tablets
 * Dose: 12.5 and 25 mg
 * Recommended dose: 25mg tablet per day
 
-#### 2. Therapeutic indication
+### 2. Therapeutic indication
 
 Naloxegol is a second-line treatment for constipation due to opioid therapy.
 
-#### 3. Pharmacology
+### 3. Pharmacology
 
 It is a peripheral mu-opioid-receptor antagonist that blocks the mu-opioid receptors in the gut and reduces the side effects of opioids
 
-#### 4. Side effects
+### 4. Side effects
 
 * abdominal pain
 * diarrhoea
 * headache and flatulence
 
-##### References from Pubchem
+<br>
 
-1. [Fentanyl](https://pubchem.ncbi.nlm.nih.gov/compound/3345)
-2. [Oxycodone](https://pubchem.ncbi.nlm.nih.gov/compound/5284603)
-3. [Naloxegol](https://pubchem.ncbi.nlm.nih.gov/compound/56959087)
+#### References from Pubchem
+
+* [Fentanyl](https://pubchem.ncbi.nlm.nih.gov/compound/3345)
+* [Oxycodone](https://pubchem.ncbi.nlm.nih.gov/compound/5284603)
+* [Naloxegol](https://pubchem.ncbi.nlm.nih.gov/compound/56959087)

@@ -17,6 +17,9 @@ In 2020, 347,000 people were treated with chemotherapy in France. A major concer
 <div class="caption">
     Strasbourg Europe Cancer Institute
 </div>
+
+<br>
+
 ## Cancer types and risk-factors
 
 Cancer is one of the leading causes of death in the richest countries. Four types of cancer represent 78% of chemotherapy sessions. Although some cancers cannot be avoided, having a healthy lifestyle may play an important role.
@@ -60,14 +63,18 @@ Many types of cancer treatment depend on the type of cancer and how advanced it 
 
 The conventional strategy in chemotherapy was to eradicate all cancerous cells. Despite these solutions, cells can become resistant in a similar cellular mechanism that occurs during bacterial treatment resistance to antibiotics. One solution is **adaptive therapy**.
 
+<br>
+
 ## The adaptative therapy
 
 In 2009, Robert Gatenby proposed a new way of cancer treatment: adaptive therapy. Based on the principles of evolution by Charles Darwin, doctors administer low doses of chemotherapy drugs to reduce the selection pressure on cancerous cells. They aim to control the cancer rather than eradicate it completely. Adaptive therapy is used for incurable cancer, and the purpose of this therapy is to alternate between treatment and no treatment periods. This approach is less aggressive on the cancerous cells and decreases the natural selection of the strongest cells. However, this therapy is still under development.
 
+<br>
+
 ### References
 
-1. A new approach to treat cancer with adaptative therapy on [The Conversation](https://theconversation.com/traitement-du-cancer-leradication-a-tout-prix-nest-pas-forcement-la-bonne-approche-153429.
-2. How to attenuate tumoral resistance ? Read this [article](https://www.letemps.ch/sciences/une-piste-attenuer-resistances-tumorales) from Le Temps.
-3. You can find more informations on the data use to write this article [here](https://www.e-cancer.fr/Professionnels-de-sante/Les-traitements/Chimiotherapie/Chiffres-cles-de-la-chimiotherapie).
-4. What are the different treatment type of cancer ? Read this [article](https://www.cancer.gov/about-cancer/treatment/types) to learn more about it.
-5. The [Montpellier Molecular Genetics Institute](https://www.igmm.cnrs.fr/doses-faibles-de-medicaments-anticancereux-pourraient-etre-plus-efficaces/) gives us more informations on the adaptative therapy.
+* A new approach to treat cancer with adaptative therapy ? Read this [article](https://theconversation.com/traitement-du-cancer-leradication-a-tout-prix-nest-pas-forcement-la-bonne-approche-153429)from The Conversation.
+* How to attenuate tumoral resistance ? Read this [article](https://www.letemps.ch/sciences/une-piste-attenuer-resistances-tumorales) from Le Temps.
+* You can find more informations on the data use to write this article [here](https://www.e-cancer.fr/Professionnels-de-sante/Les-traitements/Chimiotherapie/Chiffres-cles-de-la-chimiotherapie).
+* What are the different treatment type of cancer ? Read this [article](https://www.cancer.gov/about-cancer/treatment/types) to learn more about it.
+* The [Montpellier Molecular Genetics Institute](https://www.igmm.cnrs.fr/doses-faibles-de-medicaments-anticancereux-pourraient-etre-plus-efficaces/) gives us more insights on the adaptative therapy.

@@ -28,4 +28,3 @@ I am a lifelong learner.
 After finishing my Pharm.D studies at Paris University René Descartes, I signed my first contract in South America. I stayed there for a decade.
 
 In 2019, I came back in Strasbourg.
-The time has come to share a part of my work.

@@ -86,4 +86,4 @@ I did five **mistakes**:
 * [A contrast color analyze](https://www.tpgi.com/color-contrast-checker/) is a usefull tool to provide a good colour visibility.
 * [Compressing your images](https://compressjpeg.com/) is one of the way to increase  site speed.
 * [I use a plagiat checker](https://smallseotools.com/fr/plagiarism-checker/) to avoid any redundancy on my blog posts.
-* [Center in css](http://howtocenterincss.com/) is a real pain.
+* Center in css is a real pain that's why I use this [online tool](http://howtocenterincss.com/).
