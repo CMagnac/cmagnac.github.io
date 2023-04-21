@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: false
+description: ""
 nav: true
 nav_order: 1
 display_categories: false
