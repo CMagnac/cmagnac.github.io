@@ -58,7 +58,6 @@ The scale grade are:
 * 7 to 10 means severe pain
 
 Major analgesics can be classified by their **equianalgesic dose**.
-<p style="text-align:center">
 
 INN (International Nonproprietary Names)
 
@@ -72,8 +71,6 @@ INN (International Nonproprietary Names)
 | Hydromorphone   | 4mg |
 | Oxycodone | 15mg |
 | Methadone | 3mg  |
-
-</p>
 
 <br>
 
@@ -103,6 +100,6 @@ It is a peripheral mu-opioid-receptor antagonist that blocks the mu-opioid recep
 
 #### References from Pubchem
 
-* <a href="https://pubchem.ncbi.nlm.nih.gov/compound/3345" target="_blank">Fentanyl</a>
-* <a href="https://pubchem.ncbi.nlm.nih.gov/compound/5284603" target="_blank">Oxycodone</a>
-* <a href="https://pubchem.ncbi.nlm.nih.gov/compound/56959087" target="_blank">Naloxegol</a>
+* [Fentanyl](https://pubchem.ncbi.nlm.nih.gov/compound/3345)
+* [Oxycodone](https://pubchem.ncbi.nlm.nih.gov/compound/5284603)
+* [Naloxegol](https://pubchem.ncbi.nlm.nih.gov/compound/56959087)
