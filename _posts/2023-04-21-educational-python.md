@@ -1,7 +1,12 @@
 ---
 layout: post
+<<<<<<< HEAD:_posts/2023-04-21-educational-python.md
 title:  Protein
 date:   2023-04-21 08:00:00
+=======
+title:  About protein mass
+date:   2023-04-22 08:00:00
+>>>>>>> 9d3501f78a27bebbeb364ab8d72466533903a51d:_posts/2023-04-22-educational-python.md
 description: A brief lecture on protein
 tags: false
 categories: Educational
@@ -49,10 +54,7 @@ You can read the problem [here](https://rosalind.info/problems/prtm/).
 
 ### My solution
 
-aminoacid_dict.json
-
-Each letters corresponds to the protein.
-Each float corresponds to the monoisotopic mass.
+Create a json file where each letters corresponds to the protein and each float corresponds to the monoisotopic mass.
 
 ```json
 {
@@ -79,7 +81,7 @@ Each float corresponds to the monoisotopic mass.
 }
 ```
 
-prtm.py
+Create a python file named prtm.py where you write the code.
 
 ```python
 import argparse
@@ -119,11 +121,13 @@ if __name__ == "__main__":
 
 ```
 
-Run the code in the command line.
+Run the code in the command line with the protein string.
 
 ```bash
 python prtm.py -i SKADYEK
 ```
+
+This should output 821.392.
 
 <br>
 
