@@ -1,12 +1,7 @@
 ---
 layout: post
-<<<<<<< HEAD:_posts/2023-04-21-educational-python.md
 title:  Protein
 date:   2023-04-21 08:00:00
-=======
-title:  About protein mass
-date:   2023-04-22 08:00:00
->>>>>>> 9d3501f78a27bebbeb364ab8d72466533903a51d:_posts/2023-04-22-educational-python.md
 description: A brief lecture on protein
 tags: false
 categories: Educational
