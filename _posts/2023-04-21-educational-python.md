@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Protein
+title:  Focus on protein mass
 date:   2023-04-21 08:00:00
 description: A brief lecture on protein
 tags: false
