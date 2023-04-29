@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Neurofeedback
-date:   2023-04-28 08:00:00
+date:   2023-04-28 18:00:00
 description: Experimental treatment of neurological diseases
 tags: false
 categories: Disease-treatment
