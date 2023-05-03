@@ -49,15 +49,15 @@ In the case of EEG-NFB, doctors analyze the cerebral waves that are different in
 
 There are distinct cerebral rhythms that can be classified with Greek letters.
 
-| Brainwaves            | Frequency |
-| :---------------:     | :-------: |
-| Delta(`$delta$`)      |  < 4Hz    |
-| Thêta(`$theta$`)      |  4-7 Hz   |
-| Alpha(`$alpah$`)      | 8-12 Hz   |
-| Beta(`$beta$`)        | 13-25 Hz  |
-| Beta-1                | 13-16 Hz  |
-| Beta-2                | 17-25 Hz  |
-| Gamma(`$gamma$`)      | 25-50 Hz  |
+| Brainwaves      | Frequency |
+| :----------:    | :-------: |
+| Delta (&delta;) |  < 4Hz    |
+| Thêta (&theta;) |  4-7 Hz   |
+| Alpha (&alpha;) | 8-12 Hz   |
+| Beta  (&beta;)  | 13-25 Hz  |
+| Beta-1          | 13-16 Hz  |
+| Beta-2          | 17-25 Hz  |
+| Gamma (&gamma;) | 25-50 Hz  |
 
 The connection between brainwaves and our states of being are as follows:
 
@@ -79,12 +79,12 @@ The neurofeedback principle is associated with a psychophysiological loop.
 
 There are six steps to understand how NFB is working:
 
-1. Cerebral activity recording: recording the cerebral activity with an EEG gear.
-2. Signal boosting: amplification of the signal with an electronic box called the amplifier, which is connected both to the EEG and the software. The signal is interpreted by the NFB algorithms.
-3. Informatic scan: scanning the EEG signal into a binary signal to be understood by the software.
-4. Real-time signal processing: the algorithms process the binary signal associated with the NFB protocol.
-5. Visual or auditory feedback: a feedback returns to the patient depending on their cerebral activities.
-6. Learning cognitive strategy: as a consequence, the patient searches for new cognitive strategies.
+1. **Cerebral activity recording** : recording the cerebral activity with an EEG gear.
+2. **Signal boosting** : amplification of the signal with an electronic box called the amplifier, which is connected both to the EEG and the software. The signal is interpreted by the NFB algorithms.
+3. **Informatic scan** : scanning the EEG signal into a binary signal to be understood by the software.
+4. **Real-time signal processing** : the algorithms process the binary signal associated with the NFB protocol.
+5. **Visual or auditory feedback** : a feedback returns to the patient depending on their cerebral activities.
+6. **Learning cognitive strategy** : as a consequence, the patient searches for new cognitive strategies.
 
 <br>
 

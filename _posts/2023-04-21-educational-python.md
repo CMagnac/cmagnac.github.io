@@ -33,7 +33,7 @@ I choose an example of the [Rosalind plateform](https://rosalind.info).
 
 ## The monoisotopic mass
 
-The wikipedia definition of the monoisotopic:
+The wikipedia definition of the monoisotopic mass:
 
 <blockquote>
     Monoisotopic mass (Mmi) is one of several types of molecular masses used in mass spectrometry. The theoretical monoisotopic mass of a molecule is computed by taking the sum of the accurate masses (including mass defect) of the most abundant naturally occurring stable isotope of each atom in the molecule.
@@ -41,7 +41,7 @@ The wikipedia definition of the monoisotopic:
 
 It's the first peak mass of isotopic profil. The one that only take the mass of the most stable isotopes.
 
-## Rosalind
+## Rosalind plateform
 
 It is an educational resource and web project for learning bioinformatics through problem solving and computer programming.
 
@@ -49,7 +49,9 @@ You can read the problem [here](https://rosalind.info/problems/prtm/).
 
 ### My solution
 
-Create a json file where each letters corresponds to the protein and each float corresponds to the monoisotopic mass.
+Create a json file where each letters corresponds to the protein and each float corresponds to the monoisotopic mass. It is expressed in daltons (Da).
+Let's call it **aminoacid_dict.json**.
+
 
 ```json
 {
@@ -76,7 +78,7 @@ Create a json file where each letters corresponds to the protein and each float 
 }
 ```
 
-Create a python file named prtm.py where you write the code.
+Create a python file named **prtm.py** where you write the code.
 
 ```python
 import argparse
@@ -122,7 +124,7 @@ Run the code in the command line with the protein string.
 python prtm.py -i SKADYEK
 ```
 
-This should output 821.392.
+The output should be 821.392 Da.
 
 <br>
 
@@ -142,7 +144,7 @@ Mass spectrometry of the peptides/proteins can be performed, with the resulting 
 
 This procedure from sample deposition to result takes 5 to 10 minutes. The sample can consist of bacteria from a blood culture.
 
-### References
+### Pubchem references
 
 * [alanine](https://pubchem.ncbi.nlm.nih.gov/compound/5950)
 * [histidine](https://pubchem.ncbi.nlm.nih.gov/compound/6274)

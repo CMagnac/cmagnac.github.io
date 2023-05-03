@@ -98,7 +98,7 @@ It is a peripheral mu-opioid-receptor antagonist that blocks the mu-opioid recep
 
 <br>
 
-#### References from Pubchem
+#### Pubchem references
 
 * [Fentanyl](https://pubchem.ncbi.nlm.nih.gov/compound/3345)
 * [Oxycodone](https://pubchem.ncbi.nlm.nih.gov/compound/5284603)
