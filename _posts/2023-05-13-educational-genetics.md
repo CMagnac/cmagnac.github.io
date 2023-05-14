@@ -86,7 +86,7 @@ I decided to narrow the scope at the three length codons rule.
 
 Note the difference between **continue** and **break** statement in the rna_translation definition. If you replace it by break, you won't have the expected output in case of a stoping codon.
 
-**First step** : create a json file, rnacodon_table.json. We will use this file to translate RNA into the amino acid.
+**First step** : create a json file, **rnacodon_table.json**. We will use this file to translate RNA into the amino acid.
 
 ```json
 {
@@ -106,7 +106,7 @@ Note the difference between **continue** and **break** statement in the rna_tran
 
 <br>
 
-**Second step** : create a python file, genetics.py.
+**Second step** : create a python file, **genetics.py**.
 
 ```python
 import json
@@ -238,6 +238,6 @@ The fight against diagnostic and therapeutic error, the improvement of the care 
 
 * [Inserm report on rare disease](https://www.inserm.fr/rapport/registres-maladies-rares-et-collections-de-donnees-sur-les-maladies-rares-en-france-mars-2022/).
 * [Institute of Medical Genetics of Alsace](https://www.chru-strasbourg.fr/service/institut-genetique-medicale-alsace-igma/).
-* [Image by brgfx](https://www.freepik.com/free-vector/animal-cell-diagram-colors_2480897.htm#query=eukaryotic%20cell&position=4&from_view=search&track=ais)on Freepik.
-* [Image by macrovector](https://www.freepik.com/free-vector/scientific-molecular-abstract-concept-with-blue-connected-atoms-realistic-style-white-isolated_11241930.htm#query=dna%20helix&position=14&from_view=search&track=ais)on Freepik.
+* [Image by brgfx](https://www.freepik.com/free-vector/animal-cell-diagram-colors_2480897.htm#query=eukaryotic%20cell&position=4&from_view=search&track=ais) on Freepik.
+* [Image by macrovector](https://www.freepik.com/free-vector/scientific-molecular-abstract-concept-with-blue-connected-atoms-realistic-style-white-isolated_11241930.htm#query=dna%20helix&position=14&from_view=search&track=ais) on Freepik.
 * [Image by Freepik](https://www.freepik.com/free-vector/human-figure-dots-illustration_712896.htm#query=RNA&position=3&from_view=search&track=sph).

@@ -24,9 +24,9 @@ The first-line treatment of constipation due to opioid painkillers may fail. Nal
 
 The prescription is for the treatment of pain due to cancer. The treatment duration is 28 days for each drug.
 
-* Durogesic 12µg/h (fentanyl): 1 patch every three days
-* Oxynorm oro 5mg (oxycodone): 1 tablet every 6 hours in case of pain
-* Moventig 25mg (naloxegol): 1 tablet per day
+* Durogesic&reg; 12µg/h (fentanyl): 1 patch every three days
+* Oxynormoro&reg; 5mg (oxycodone): 1 tablet every 6 hours in case of pain
+* Moventig&reg; 25mg (naloxegol): 1 tablet per day
 
 Fentanyl is a **synthetic**, lipophilic phenylpiperidine opioid agonist with analgesic and anesthetic properties. Oxycodone is a **semi-synthetic**, morphine-like opioid alkaloid with analgesic activity.
 
@@ -74,7 +74,7 @@ INN (International Nonproprietary Names)
 
 <br>
 
-## Moventig
+## Moventig&reg;
 
 ### 1. Presentation
 
