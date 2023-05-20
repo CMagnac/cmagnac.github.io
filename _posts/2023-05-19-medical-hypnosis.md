@@ -50,13 +50,13 @@ With the advancements in technology, new therapeutic approaches use **virtual re
 
 The official definition provided by the **Haute Autorité de Santé** (HAS), the French High Authority of Health, outlines the application domains of VR, which include :
 
-* training of health professionals
-* relaxation and stress reduction
-* psychology and psychiatry
-* pain relief
-* re-education
-* treatment of neurodegenerative diseases
-* anesthesia, and surgery
+* Training of health professionals
+* Relaxation and stress reduction
+* Psychology and psychiatry
+* Pain relief
+* Re-education
+* Treatment of neurodegenerative diseases
+* Anesthesia, and surgery
 
 <blockquote>
 The use of equipment (such as a dummy or a procedural simulator), virtual reality or a standardized patient, to reproduce care situations or environments, to teach diagnostic and therapeutic procedures and to allow processes, clinical situations or decision-making by a healthcare professional or a team of professionals.
@@ -78,43 +78,50 @@ While I have mentioned five companies, there are many more around the world.
 
 ### 1. HypnoVR
 
-Website : [Hypnovr](https://hypnovr.io/en/).
-Founded in 2016.
-Located in **Strasbourg**, France.
-Provides medical hypnosis to 240 health facilities.
+* Website : [Hypnovr](https://hypnovr.io/en/).
+* Founded in 2016.
+* Located in **Strasbourg**, France.
+* Provides medical hypnosis to 240 health facilities.
+
 Their goal is to reduce the usage of anxiolytics and sedatives for the treatment of stress, pain, and anxiety.
+
 It's a **class 1 medical device**.
 
 ### 2. Healthymind
 
-Website : [healtymind](https://healthymind.fr/).
-Founded in 2017.
-Located in **Strasbourg**, France.
-Primed by the University of Adelaide (Australia).
-Offers a contemplative and interactive device.
+* Website : [healtymind](https://healthymind.fr/).
+* Founded in 2017.
+* Located in **Strasbourg**, France.
+* Primed by the University of Adelaide (Australia).
+* Offers a contemplative and interactive device.
+
 Their goal is to address anxiety and pain.
 
 ### 3. Lumeen
 
-Website : [lumeen](https://www.lumeen.com/).
-Founded in 2019.
+* Website : [lumeen](https://www.lumeen.com/).
+* Founded in 2019.
+
 Specializes in the most widespread type of French residential care for senior citizens, *les Etablissement d'Hébergement pour Personnes Agées Dépendantes* (EHPAD).
+
 Gained class 1 medical device status in April 2021.
+
 Provides services to 400 health facilities.
 
 ### 4. C2Care
 
-Website : [C2Care](https://www.c2.care/fr/).
-Founded in 2015.
-Located in Sanary-Sur-Mer, France.
-They collaborate with 22 University Hospital Centers.
+* Website : [C2Care](https://www.c2.care/fr/).
+* Founded in 2015.
+* Located in Sanary-Sur-Mer, France.
+* They collaborate with 22 University Hospital Centers.
+
 They provide many applications : C2Phobia, C2Addict, C2Drive(fear of driving), C2Hypno (meditation), Physio (physiotherapy), Nitro (eating disorder), Neuro (support for brain-damaged people), Companion (stimulation of cognitive function), Brain (cognitive) and Custom (custom software).
 
 ### 5. Amelia Virtual Care
 
-Website : [amelia virtual care](https://ameliavirtualcare.com/)
-Founded in 2013.
-Located in Barcelona.
+* Website : [amelia virtual care](https://ameliavirtualcare.com/)
+* Founded in 2013.
+* Located in Barcelona.
 
 About amelia virtual care :
 
@@ -122,6 +129,5 @@ About amelia virtual care :
 
 ### References
 
-* [ncbi article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4220267/).
-* [VR et santé](https://mbamci.com/realite-virtuelle-sante/).
-* [vidal dm](https://www.vidal.fr/parapharmacie/utilisation/regles-bon-usage-parapharmacie/dispositifs-medicaux-dm-ce.html).
+* A [NIH article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4220267/) about mechanisms of hypnosis.
+* A [french article](https://mbamci.com/realite-virtuelle-sante/) about the VR in health.
