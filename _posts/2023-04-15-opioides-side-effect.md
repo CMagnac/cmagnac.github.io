@@ -4,7 +4,7 @@ title:  Management of opioïdes side effects
 date:   2023-04-15 08:00:00
 description: Constipation second line treatment
 tags: false
-categories: Drug-prescription Strasbourg-institute
+categories: Drug-prescription Strasbourg-institute Disease-treatment
 ---
 
 <div class="row">

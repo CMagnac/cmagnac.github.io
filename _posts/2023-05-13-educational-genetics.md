@@ -4,18 +4,18 @@ title:  Focus on DNA
 date:   2023-05-13 08:00:00
 description: Object-Oriented Programming in Python 
 tags: false
-categories: Educational-code
+categories: Educational
 ---
 
-Last week, students asked me to explain a fundamental concept in biology, the translation and transcription process.
+Last week, students asked me to explain a fundamental concept in biology: the translation and transcription process.
 
-This gave me the idea to use our knowledges in computer science to apply theory in an experimental way. Indeed, we are all python addicted.
+This gave me the idea to use our knowledge in computer science to apply theory in an experimental way. Indeed, we are all addicted to Python.
 
-On the one hand, I presented a short resume on definition, basics are so important.
+On one hand, I presented a brief summary of the definition because basics are so important.
 
-On the other hand, we implemented a python object solution to two questions from the Rosalind plateform.
+On the other hand, we implemented a Python object solution to two questions from the Rosalind platform.
 
-Finally I describe some diseases who result from genetics disorder.
+Finally, I will describe some diseases that result from genetic disorders.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -30,7 +30,7 @@ Finally I describe some diseases who result from genetics disorder.
 
 ## Bunch of definitions
 
-Lets' begin with two wikipedia definitions about DNA and RNA.
+Let's begin with two Wikipedia definitions about DNA and RNA.
 
 <blockquote>
 The DeoxyriboNucleic Acid or DNA is a polymer composed of two polynucleotide chains that coil around each other to form a double helix.
@@ -55,7 +55,7 @@ The RiboNucleic Acid or RNA is a polymeric molecule essential in various biologi
 
 ## Our solutions
 
-I picked two examples from rosalind website.
+I choose two examples from the Rosalind website. In Python
 
 * [Transcribing DNA to RNA](https://rosalind.info/problems/rna/)
 * [Translating RNA into Protein](https://rosalind.info/problems/prot/)
@@ -64,9 +64,11 @@ I picked two examples from rosalind website.
 
 ### Focus on property
 
-In Python, property() is a **built-in function** that creates and returns a property object.
+In Python, *property()* is a **built-in function** that creates and returns a property object.
 
+```python
 property(fget=None, fset=None, fdel=None, doc=None)
+```
 
 * fget is function to **get value** of the attribute.
 * fset is function to **set value** of the attribute.
@@ -75,18 +77,19 @@ property(fget=None, fset=None, fdel=None, doc=None)
 
 It defines **the properties of an object**.
 
-When it comes to code, you always want to make things complex. As it is suggest in the PEP20, simple is better than complex.
+When it comes to coding, you always want to make things complex. As suggested in **PEP20**, simplicity is better than complexity.
 
 <br>
 
 ### Simplify the problem
 
-Even if some RNA molecules, such as transfer RNA (tRNA) and ribosomal RNA (rRNA), have other functions in the cell and do not follow the **three-nucleotide codon rule**.
-I decided to narrow the scope at the three length codons rule.
+Even though some RNA molecules, such as transfer RNA (tRNA) and ribosomal RNA (rRNA), have other functions in the cell and do not follow the **three-nucleotide codon rule**, I decided to narrow the scope to the three-length codon rule.
 
-Note the difference between **continue** and **break** statement in the rna_translation definition. If you replace it by break, you won't have the expected output in case of a stoping codon.
+Note the difference between **continue** and **break** statement in the **rna_translation** definition.
 
-**First step** : create a json file, **rnacodon_table.json**. We will use this file to translate RNA into the amino acid.
+If you replace **continue** with **break**, you won't get the expected output in the case of a stop codon.
+
+**First step**: create a JSON file, **rnacodon_table.json**. We will use the file to translate RNA into the amino acids.
 
 ```json
 {
@@ -106,7 +109,7 @@ Note the difference between **continue** and **break** statement in the rna_tran
 
 <br>
 
-**Second step** : create a python file, **genetics.py**.
+**Second step**: Create a python file named **genetics.py**.
 
 ```python
 import json
@@ -172,7 +175,7 @@ if __name__ == "__main__":
     print(rna.rna_translation() == sample_output)
 ```
 
-**Final step** : run the code in the command line interpreter.
+**Final step**: Run the code in the command line interpreter.
 
 ```sh
 python genetics.py
@@ -187,9 +190,9 @@ True
 
 <br>
 
-Obviously, there are so many imperfections but I let my students thinking more about it.
+Obviously, there are many imperfections, but I encourage my students to think more about them.
 
-I will conclude on rare diseases.
+I will conclude with rare diseases.
 
 <br>
 
@@ -211,26 +214,26 @@ I will conclude on rare diseases.
 
 What is a rare disease ?
 
-A disease is called *rare* when it touchs **less than** a person on 2000. Some are known by the public: albinism, sickle-cell disease, cystic fibrosis, hemochromatosis, Duchenne muscular dystrophy etc ...
+A disease is called "rare" when it affects less than one person in 2,000. Some are known to the public, such as albinism, sickle-cell disease, cystic fibrosis, hemochromatosis, Duchenne muscular dystrophy, etc.
 
-80% of rare disease are genetic.
+80% of rare diseases are genetic.
 
-In *Le Grand Est*, these diseases impact more than 200000 people.
+In the *Grand Est* region, these diseases impact more than 200,000 people.
 
-In France, a national program **offers to 3 days old new born** a screening on rare diseases.
+In France, a national program offers screening for rare diseases to newborns within the first three days.
 
-These are:
+The diseases screened for are:
 
-* phenylketonuria
-* congenital hypothyroidism
-* congenital adrenal hyperplasia
-* sickle cell disease
-* cystic fibrosis
+* Phenylketonuria
+* Congenital hypothyroidism
+* Congenital adrenal hyperplasia
+* Sickle cell disease
+* Cystic fibrosis
 * MCAD deficiency
 
-The rare disease are a **priority route** of the [ARS](https://www.grand-est.ars.sante.fr/) Grand Est Regional Health Project.
+Rare diseases are a **priority** in the [ARS](https://www.grand-est.ars.sante.fr/) (Regional Health Agency) Grand Est Regional Health Project.
 
-The fight against diagnostic and therapeutic error, the improvement of the care pathway and access to information are the priorities of the rare disease pathway.
+The fight against diagnostic and therapeutic errors, the improvement of the care pathway, and access to information are the priorities of the rare disease pathway.
 
 <br>
 
