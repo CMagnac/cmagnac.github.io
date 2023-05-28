@@ -18,12 +18,6 @@
   type: time_table
   contents:
     - title: Pharmacist
-      institution: Pharmacie de la Citadelle, Strasbourg
-      year: 2023 - Now
-      description:
-        - Managing opioid prescription and drug addiction treatment
-    
-    - title: Pharmacist
       institution: Pharmacie des Deux Rives, Strasbourg
       year: 2021 - 2022
       description:
