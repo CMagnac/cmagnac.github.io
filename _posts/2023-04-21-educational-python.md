@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Focus on protein mass
+title:  Focus on Protein Mass
 date:   2023-04-21 08:00:00
-description: A brief lecture on protein
+description: A Brief Lecture on Protein
 tags: false
 categories: Educational
 ---
@@ -31,7 +31,7 @@ I choose an example of the [Rosalind plateform](https://rosalind.info).
 
 <br>
 
-## The monoisotopic mass
+## The Monoisotopic Mass
 
 The wikipedia definition of the monoisotopic mass:
 
@@ -41,13 +41,13 @@ The wikipedia definition of the monoisotopic mass:
 
 It's the first peak mass of isotopic profil. The one that only take the mass of the most stable isotopes.
 
-## Rosalind plateform
+## Rosalind Plateform
 
 It is an educational resource and web project for learning bioinformatics through problem solving and computer programming.
 
 You can read the problem [here](https://rosalind.info/problems/prtm/).
 
-### My solution
+### My Solution
 
 Create a json file where each letters corresponds to the protein and each float corresponds to the monoisotopic mass. It is expressed in daltons (Da).
 Let's call it **aminoacid_dict.json**.
@@ -144,7 +144,7 @@ Mass spectrometry of the peptides/proteins can be performed, with the resulting 
 
 This procedure from sample deposition to result takes 5 to 10 minutes. The sample can consist of bacteria from a blood culture.
 
-### Pubchem references
+### Pubchem References
 
 * [alanine](https://pubchem.ncbi.nlm.nih.gov/compound/5950)
 * [histidine](https://pubchem.ncbi.nlm.nih.gov/compound/6274)

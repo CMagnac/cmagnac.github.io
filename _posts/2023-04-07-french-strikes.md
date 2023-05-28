@@ -2,7 +2,7 @@
 layout: post
 title:  French Strikes
 date:   2023-04-07 08:00:00
-description: The double-edged sword 
+description: The Double-Edged Sword 
 tags: false
 categories: Nohealth-actuality
 ---
@@ -53,7 +53,7 @@ On March 28, 2023, 13000 security agents were deployed across France. While thes
 
 Despite the support of 70% of the French population, the government has not bowed yet. A question still remains unanswered: even if the 49.3 is a constitutional text, is it really democratic?
 
-## Chart code
+## Chart Code
 
 ```python
 ## import pandas in both cases

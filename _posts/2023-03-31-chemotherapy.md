@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  Fighting cancerous cells resistance
+title:  Fighting Cancerous Cells Resistance
 date:   2023-03-31 08:00:00
-description: chemotherapy treatment
+description: Chemotherapy Treatment
 tags: false 
-categories: Strasbourg-institute Disease-treatment
+categories: Strasbourg-Institute Disease-Treatment
 ---
 
 In 2020, 347,000 people were treated with chemotherapy in France. A major concern in chemotherapy treatment is the emergence of cancer-resistant cells. Based on principles of evolution, new therapeutic strategies rely on adaptive therapy, which consists of alternating between treatment and no treatment periods. However, as with any public health issue, prevention is always the best approach to prevent the increase of cancer incidence.
@@ -20,7 +20,7 @@ In 2020, 347,000 people were treated with chemotherapy in France. A major concer
 
 <br>
 
-## Cancer types and risk-factors
+## Cancer Types and Risk-Factors
 
 Cancer is one of the leading causes of death in the richest countries. Four types of cancer represent 78% of chemotherapy sessions. Although some cancers cannot be avoided, having a healthy lifestyle may play an important role.
 
@@ -65,7 +65,7 @@ The conventional strategy in chemotherapy was to eradicate all cancerous cells. 
 
 <br>
 
-## The adaptative therapy
+## The Adaptative Therapy
 
 In 2009, Robert Gatenby proposed a new way of cancer treatment: adaptive therapy. Based on the principles of evolution by Charles Darwin, doctors administer low doses of chemotherapy drugs to reduce the selection pressure on cancerous cells. They aim to control the cancer rather than eradicate it completely. Adaptive therapy is used for incurable cancer, and the purpose of this therapy is to alternate between treatment and no treatment periods. This approach is less aggressive on the cancerous cells and decreases the natural selection of the strongest cells. However, this therapy is still under development.
 

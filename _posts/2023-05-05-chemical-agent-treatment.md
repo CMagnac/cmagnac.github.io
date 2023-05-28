@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  Chemical agents exposure
+title:  Chemical Agents Exposure
 date:   2023-05-05 18:00:00
-description: Treatment of an occupational disease
+description: Treatment of an Occupational Disease
 tags: false
-categories: Drug-prescription Disease-treatment
+categories: Drug-Prescription Disease-Treatment
 ---
 
 Trichloroethylene is a chlorinated solvent used for cleaning metals. It is a carcinogenic compound that may cause kidney cancer, liver cancer, or non-Hodgkin's lymphoma. Exposure to it for a few months may be enough to inhale and further develop any of the aforementioned diseases. Countries have defined legal exposure values for workers, presented in the following chart.
@@ -45,7 +45,7 @@ Chemical agent exposure is a matter of concern and depends on the profession. It
 
 <br>
 
-## A pharmacy case
+## A Pharmacy Case
 
 A 60-year-old male had been exposed during his military service when he was twenty years old.
 
@@ -102,7 +102,7 @@ Extract from [drugbank on prazepam](https://go.drugbank.com/drugs/DB01588).
 
 <br>
 
-### Bart chart python code
+### Bart Chart Python Code
 
 ```py
 import pandas as pd
@@ -119,7 +119,7 @@ for container in ax.containers:
 
 <br>
 
-### Pubchem references
+### Pubchem References
 
 * [Escitalopram](https://pubchem.ncbi.nlm.nih.gov/compound/146570)
 * [Peginterferon Alfa-2a](https://pubchem.ncbi.nlm.nih.gov/substance/135347948)

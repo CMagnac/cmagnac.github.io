@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  Management of opioïdes side effects
+title:  Management of Opioïdes Side Effects
 date:   2023-04-15 08:00:00
-description: Constipation second line treatment
+description: Constipation Second Line Treatment
 tags: false
-categories: Drug-prescription Strasbourg-institute Disease-treatment
+categories: Drug-Prescription Strasbourg-Institute Disease-Treatment
 ---
 
 <div class="row">
@@ -82,7 +82,7 @@ INN (International Nonproprietary Names)
 * Dose: 12.5 and 25 mg
 * Recommended dose: 25mg tablet per day
 
-### 2. Therapeutic indication
+### 2. Therapeutic Indication
 
 Naloxegol is a second-line treatment for constipation due to opioid therapy.
 
@@ -90,7 +90,7 @@ Naloxegol is a second-line treatment for constipation due to opioid therapy.
 
 It is a peripheral mu-opioid-receptor antagonist that blocks the mu-opioid receptors in the gut and reduces the side effects of opioids
 
-### 4. Side effects
+### 4. Side Effects
 
 * abdominal pain
 * diarrhoea
@@ -98,7 +98,7 @@ It is a peripheral mu-opioid-receptor antagonist that blocks the mu-opioid recep
 
 <br>
 
-#### Pubchem references
+#### Pubchem References
 
 * [Fentanyl](https://pubchem.ncbi.nlm.nih.gov/compound/3345)
 * [Oxycodone](https://pubchem.ncbi.nlm.nih.gov/compound/5284603)

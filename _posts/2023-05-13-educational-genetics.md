@@ -28,7 +28,7 @@ Finally, I will describe some diseases that result from genetic disorders.
 
 <br>
 
-## Bunch of definitions
+## Bunch of Definitions
 
 Let's begin with two Wikipedia definitions about DNA and RNA.
 
@@ -53,7 +53,7 @@ The RiboNucleic Acid or RNA is a polymeric molecule essential in various biologi
 
 <br>
 
-## Our solutions
+## Our Solutions
 
 I choose two examples from the Rosalind website. In Python
 
@@ -62,7 +62,7 @@ I choose two examples from the Rosalind website. In Python
 
 <br>
 
-### Focus on property
+### Focus on Property
 
 In Python, *property()* is a **built-in function** that creates and returns a property object.
 
@@ -81,7 +81,7 @@ When it comes to coding, you always want to make things complex. As suggested in
 
 <br>
 
-### Simplify the problem
+### Simplify the Problem
 
 Even though some RNA molecules, such as transfer RNA (tRNA) and ribosomal RNA (rRNA), have other functions in the cell and do not follow the **three-nucleotide codon rule**, I decided to narrow the scope to the three-length codon rule.
 
@@ -196,7 +196,7 @@ I will conclude with rare diseases.
 
 <br>
 
-## Beyond the course
+## Beyond the Course
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -237,7 +237,7 @@ The fight against diagnostic and therapeutic errors, the improvement of the care
 
 <br>
 
-### References & images attribution
+### References & Images Attribution
 
 * [Inserm report on rare disease](https://www.inserm.fr/rapport/registres-maladies-rares-et-collections-de-donnees-sur-les-maladies-rares-en-france-mars-2022/).
 * [Institute of Medical Genetics of Alsace](https://www.chru-strasbourg.fr/service/institut-genetique-medicale-alsace-igma/).
