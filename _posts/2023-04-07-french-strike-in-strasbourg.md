@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  French Strikes
+title:  French Strike in Strasbourg
 date:   2023-04-07 08:00:00
 description: The Double-Edged Sword 
 tags: false

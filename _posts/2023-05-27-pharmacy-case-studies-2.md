@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pharmacy Case Studies
+title: Pharmacy Case Studies 2
 date:   2023-05-27 08:00:00
 description: Psychiatry Drug and Side Effects
 tags: false
