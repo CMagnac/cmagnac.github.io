@@ -11,10 +11,12 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  Icon by <a href="https://www.flaticon.com/free-icons/caduceus" title="caduceus icons">Caduceus icons created by Freepik - Flaticon</a>
 keywords: jekyll, jekyll-theme, portfolio-website, personal-website
 
 lang: en, fr # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🌐  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: /assets/img/caduceus.png
+# the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://cmagnac.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -39,7 +41,7 @@ repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-s
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: false
+# rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -57,9 +59,9 @@ max_width: 800px
 # Open Graph & Schema.org
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+# serve_og_meta: false # Include Open Graph meta tags in the HTML head
+# serve_schema_org: false # Include Schema.org in the HTML head
+# og_image: # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Social integration
@@ -75,8 +77,8 @@ contact_note: >
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
-google_analytics:  # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
-panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
+google_analytics: G-5KNYZGJB8V
+panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX) 384221719
 
 google_site_verification:  # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
@@ -113,17 +115,6 @@ related_blog_posts:
 #   theme: preferred_color_scheme  # name of the color scheme (preferred works well with al-folio light/dark mode)
 #   emit_metadata: 0
 #   lang: en
-
-# Disqus comments (DEPRECATED)
-# disqus_shortname: al-folio # put your disqus shortname
-# https://help.disqus.com/en/articles/1717111-what-s-a-shortname
-
-# External sources.
-# If you have blog posts published on medium.com or other exteranl sources,
-# you can display them in your blog by adding a link to the RSS feed.
-# external_sources:
-#   - name: medium.com
-#     rss_url: https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -206,18 +197,19 @@ jekyll-minifier:
 # Jekyll Archives
 # -----------------------------------------------------------------------------
 
-jekyll-archives:
-  enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
-  layouts:
-    year: archive-year
-    tag: archive-tag
-    category: archive-category
-  permalinks:
-    year: '/blog/:year/'
-    tag: '/blog/tag/:name/'
-    category: '/blog/category/:name/'
+# jekyll-archives:
+#   enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
+#   layouts:
+#     year: archive-year
+#     tag: archive-tag
+#     category: archive-category
+#   permalinks:
+#     year: '/blog/:year/'
+#     tag: '/blog/tag/:name/'
+#     category: '/blog/category/:name/'
 
-display_tags: false # this tags will be dispalyed on the front page of your blog
+# # this tags will be dispalyed on the front page of your blog
+# display_tags: false 
 
 # -----------------------------------------------------------------------------
 # Jekyll Link Attributes
@@ -255,7 +247,7 @@ imagemagick:
 # Jekyll Diagrams
 # -----------------------------------------------------------------------------
 
-jekyll-diagrams:
+# jekyll-diagrams:
     # configuration, see https://github.com/zhustec/jekyll-diagrams.
     # feel free to comment out this section if not using jekyll diagrams.
 
