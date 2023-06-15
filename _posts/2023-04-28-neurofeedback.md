@@ -3,8 +3,6 @@ layout: post
 title:  NeuroFeedBack
 date:   2023-04-28 18:00:00
 description: Experimental Treatment of Neurological Diseases
-tags: false
-categories: Disease-Treatment
 ---
 **Neurofeedback** (NFB) is a non-invasive therapeutic method that consists of measuring the cerebral activities of one or more brain areas in a subject and showing them in real-time the recording of this activity. Therefore, patients can learn to control their neuronal activity. This learning can or cannot lead to behavioral changes.
 

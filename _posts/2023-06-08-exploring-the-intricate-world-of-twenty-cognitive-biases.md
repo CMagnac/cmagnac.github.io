@@ -3,8 +3,6 @@ layout: post
 title:  Exploring the Intricate World of Twenty Cognitive Biases
 date:   2023-06-08 08:00:00
 description: Unveiling the Veil
-tags: false 
-categories: Nohealth-actuality
 ---
 
 <div class="row mt-3">

@@ -3,8 +3,6 @@ layout: post
 title:  Hypnosis and Virtual Reality
 date:   2023-05-19 08:00:00
 description: Usage of VR in Medical Field
-tags: false
-categories: Disease-Treatment Newtech
 ---
 
 Hypnosis has been used for over a century for various purposes, including non-conventional therapeutic medicine, relaxation, and psychotherapy goals. Although we don't fully understand how hypnosis works, new technologies like virtual reality have allowed us to explore different applications.

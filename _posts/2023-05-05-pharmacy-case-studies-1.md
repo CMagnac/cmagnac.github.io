@@ -3,8 +3,6 @@ layout: post
 title:  Pharmacy Case Studies 1
 date:   2023-05-05 18:00:00
 description: Treatment of an Occupational Disease
-tags: false
-categories: Drug-Prescription Disease-Treatment
 ---
 
 Trichloroethylene is a chlorinated solvent used for cleaning metals. It is a carcinogenic compound that may cause kidney cancer, liver cancer, or non-Hodgkin's lymphoma. Exposure to it for a few months may be enough to inhale and further develop any of the aforementioned diseases. Countries have defined legal exposure values for workers, presented in the following chart.

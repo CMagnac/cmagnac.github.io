@@ -3,8 +3,6 @@ layout: post
 title:  Water Hygiene and Wastewater Recycling
 date:   2023-06-06 08:00:00
 description: Ensuring Safe Water for All
-tags: false 
-categories: Strasbourg-Institute
 ---
 
 <div class="row mt-3">

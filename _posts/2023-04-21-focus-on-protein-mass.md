@@ -3,8 +3,6 @@ layout: post
 title:  Focus on Protein Mass
 date:   2023-04-21 08:00:00
 description: A Brief Lecture on Protein
-tags: false
-categories: Educational
 ---
 
 <div class="row">

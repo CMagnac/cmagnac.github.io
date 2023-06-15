@@ -3,8 +3,6 @@ layout: post
 title:  Exploring the Fundamentals of Bacteriology
 date:   2023-06-02 18:00:00
 description: Creating a Customizable Glossary Application with Python and Tkinter 
-tags: false
-categories: Educational
 ---
 As an educator tasked with introducing a comprehensive bacteriology course, I have come to appreciate the importance of mastering the foundational concepts. While the process of learning definitions may seem tedious, it is crucial for aspiring biologists to develop the precision and fluency necessary for effective communication in their field.
 

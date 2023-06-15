@@ -3,8 +3,6 @@ layout: post
 title: Pharmacy Case Studies 2
 date:   2023-05-27 08:00:00
 description: Psychiatry Drug and Side Effects
-tags: false
-categories: Drug-Prescription Disease-Treatment
 ---
 
 **Attention Deficit Hyperactivity Disorder** (ADHD) is a severe psychiatric disorder that affects both children and adults.

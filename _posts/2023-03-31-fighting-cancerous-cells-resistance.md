@@ -3,10 +3,7 @@ layout: post
 title:  Fighting Cancerous Cells Resistance
 date:   2023-03-31 08:00:00
 description: Chemotherapy Treatment
-tags: false 
-categories: Strasbourg-Institute Disease-Treatment
 ---
-https://www.example.com/fighting-cancerous-cells-resistance/chemotherapy-treatment
 
 In 2020, 347,000 people were treated with chemotherapy in France. A major concern in chemotherapy treatment is the emergence of cancer-resistant cells. Based on principles of evolution, new therapeutic strategies rely on adaptive therapy, which consists of alternating between treatment and no treatment periods. However, as with any public health issue, prevention is always the best approach to prevent the increase of cancer incidence.
 

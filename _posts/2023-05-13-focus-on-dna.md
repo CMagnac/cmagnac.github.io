@@ -2,9 +2,7 @@
 layout: post
 title:  Focus on DNA
 date:   2023-05-13 08:00:00
-description: Object-Oriented Programming in Python 
-tags: false
-categories: Educational
+description: Object-Oriented Programming in Python
 ---
 
 Last week, students asked me to explain a fundamental concept in biology: the translation and transcription process.
