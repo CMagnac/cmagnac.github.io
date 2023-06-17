@@ -36,14 +36,6 @@ repo_theme_light: default       # https://github.com/anuraghazra/github-readme-s
 repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 
 # -----------------------------------------------------------------------------
-# RSS Feed
-# -----------------------------------------------------------------------------
-# will use title and url fields
-# Take a look to https://github.com/jekyll/jekyll-feed for more customization
-
-# rss_icon: false
-
-# -----------------------------------------------------------------------------
 # Layout
 # -----------------------------------------------------------------------------
 
@@ -52,16 +44,6 @@ footer_fixed: true
 
 # Dimensions
 max_width: 800px
-
-# TODO: add layout settings (single page vs. multi-page)
-
-# -----------------------------------------------------------------------------
-# Open Graph & Schema.org
-# -----------------------------------------------------------------------------
-# Display links to the page with a preview object on social media.
-# serve_og_meta: false # Include Open Graph meta tags in the HTML head
-# serve_schema_org: false # Include Schema.org in the HTML head
-# og_image: # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Social integration
@@ -192,24 +174,6 @@ jekyll-minifier:
   exclude: ['robots.txt']
   uglifier_args:
     harmony: true
-
-# -----------------------------------------------------------------------------
-# Jekyll Archives
-# -----------------------------------------------------------------------------
-
-# jekyll-archives:
-#   enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
-#   layouts:
-#     year: archive-year
-#     tag: archive-tag
-#     category: archive-category
-#   permalinks:
-#     year: '/blog/:year/'
-#     tag: '/blog/tag/:name/'
-#     category: '/blog/category/:name/'
-
-# # this tags will be dispalyed on the front page of your blog
-# display_tags: false 
 
 # -----------------------------------------------------------------------------
 # Jekyll Link Attributes
