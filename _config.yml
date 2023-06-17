@@ -15,7 +15,7 @@ footer_text: >
 keywords: jekyll, jekyll-theme, portfolio-website, personal-website
 
 lang: en, fr # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: /assets/img/caduceus.png
+icon: assets/img/caduceus.png
 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://cmagnac.github.io # the base hostname & protocol for your site
