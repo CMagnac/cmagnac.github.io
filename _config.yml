@@ -14,7 +14,7 @@ footer_text: >
 keywords: jekyll, jekyll-theme, portfolio-website, personal-website
 
 lang: en
-icon: assets/img/caduceus.svg
+icon: caduceus.png
 
 url: https://cmagnac.github.io # the base hostname & protocol for your site
 last_updated: true # set to true if you want to display last updated in the footer
