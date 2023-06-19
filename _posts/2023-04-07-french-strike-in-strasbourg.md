@@ -2,9 +2,7 @@
 layout: post
 title:  French Strike in Strasbourg
 date:   2023-04-07 08:00:00
-description: The Double-Edged Sword 
-tags: false
-categories: Nohealth-actuality
+description: The Double-Edged Sword
 ---
 
 The 49.3 is a constitutional provision that the government can use to pass a bill without a vote. It has been used by Elizabeth Born eleven times since 2022, which engages the government's responsibility. Only a motion of censure can be voted to kick off the law.
