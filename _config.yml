@@ -56,7 +56,7 @@ contact_note: >
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
-google_analytics: G-5KNYZGJB8V
+google_analytics: ""
 
 # -----------------------------------------------------------------------------
 # Blog
@@ -204,7 +204,7 @@ imagemagick:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics: true  # enables google analytics
+enable_google_analytics: false  # enables google analytics
 
 enable_tooltips:            false  # enables automatic tooltip links generated
                                    # for each section titles on pages and posts
