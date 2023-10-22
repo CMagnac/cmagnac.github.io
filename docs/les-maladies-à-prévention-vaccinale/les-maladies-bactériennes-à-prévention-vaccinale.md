@@ -3,7 +3,7 @@ layout: default
 title: Les maladies bactériennes
 parent: Les maladies à prévention vaccinale
 nav_order: 1
-last_modified_date: 20 oct 2023 à 06:11 PM
+last_modified_date: 22 oct 2023 à 04:11 PM
 ---
 
 # Les maladies bactériennes à prévention vaccinale
@@ -36,6 +36,8 @@ Le Hib est une bactérie encapsulée responsable de 90% des infections graves à
 
 ## La leptospirose
 
+La leptospirose est une **zoonose** due à des bactéries du groupe des **leptospires**. Elle est présente dans le monde entier, principalement dans les **zones tropicales**. C'est une maladie qui se transmet par l'urine des rongeurs. Les signes cliniques ressemblent à ceux d'une grippe. Certaines **professions ou activités** sont plus à risque, comme les agriculteurs, les égoutiers, les personnes pratiquant des activités nautiques, etc. Le traitement des formes graves avec atteinte de différents organes nécessite une **hospitalisation**. En France métropolitaine, le nombre de cas par an est de 600, ce chiffre est **50 à 100 fois** plus élevé dans les collectivités d'Outre-Mer.
+
 ## Les méningococcies
 
 Les méningites sont dues à *Neisseria meningitidis* de sérogroupes A, B, C, X, W135 et Y. Des épidémies se déclarent fréquemment dans la &#171; ceinture de la méningite d'Afrique subsaharienne &#187;. La contamination se fait par **voie aérienne**. Les signes cliniques apparaissent brusquement, c'est la &#171; triade méningée &#187; : **céphalées intenses**, **raideur de la nuque** et **vomissements en jet**. Les **pétéchies** (petites taches sur la peau) sont un signe clé de la septicémie. Les séquelles sont un retard mental, une surdité, une paralysie et des convulsions. La vaccination est le moyen le plus efficace pour obtenir une protection durable.
@@ -46,6 +48,8 @@ Les infections à pneumocoque sont dues à *Streptococcus pneumoniae*. C'est la 
 
 ## Le tétanos
 
+Le tétanos est causé par *Clostridium tetani*, qui est présent dans le sol. Il pénètre dans l'organisme via **une plaie ou une coupure profonde**. Ce germe produit une exotoxine (la tétanospamine) qui entraîne **des spasmes musculaires**. Cette maladie est très grave chez le nouveau-né et la femme enceinte. Elle ne se transmet pas de personne à personne. Lorsque les muscles respiratoires sont atteints, cela peut engendrer une **insuffisance respiratoire** puis la mort. Les principales complications sont **la pneumonie et les handicaps neurologiques**. En 2022, l'OMS estime que 84 % des nourrissons dans le monde entier ont reçu les trois doses de vaccin antidiphtérique, antitétanique et anticoquelucheux.
+
 ## La tuberculose
 
----
+La tuberculose est causée par *Mycobacterium tuberculosis*. C'est une maladie très contagieuse qui se transmet par **voie aérienne**. Certains patients peuvent être **asymptomatiques**. Les épidémies se développent dans des cas de **surpopulation et de malnutrition**, principalement chez les enfants de moins de trois ans, les personnes âgées et les immunodéprimés (VIH). Il existe un **traitement curatif antibiotique** comprenant l'isoniazide, la rifampicine, l'éthambutol et la pyrazinamide. La vaccination par **le vaccin BCG**, administrée dès la naissance jusqu'à l'âge de 12 mois, reste le moyen le plus efficace pour prévenir la maladie. En France, les régions d'&Icirc;le-de-France, de Guyane et de Mayotte sont les plus touchées.

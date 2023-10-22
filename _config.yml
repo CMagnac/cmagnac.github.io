@@ -1,16 +1,16 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: La vaccination en pharmacie
+description: Un document pour informer sur la vaccination dans les pharmacies en France
 theme: just-the-docs
 
 url: https://cmagnac.github.io
 
 aux_links:
-  Template Repository: https://github.com/CMagnac/cmagnac.github.io
+  Dépôt GitHub: https://github.com/CMagnac/cmagnac.github.io
 
 
 callouts:
   warning:
-    title: Warning
+    title: Mise en garde
     color: red
 
 
