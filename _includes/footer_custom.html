@@ -1,0 +1,8 @@
+{%- if site.footer_content or last_edit_timestamp_custom -%}
+  <p class="text-small text-grey-dk-100 mb-0">{{ site.footer_content }}</p>
+  <div class="d-flex mt-2">
+      <p class="text-small text-grey-dk-000 mb-0 mr-2">
+        Dernière modification de la page: <span class="d-inline-block">{{ page.last_modified_date | date: site.last_edit_time_format }}</span>.
+      </p>
+  </div>
+{%- endif -%}
