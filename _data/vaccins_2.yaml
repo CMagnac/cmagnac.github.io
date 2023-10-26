@@ -1,0 +1,155 @@
+acthib:
+  public: "Enfants\nAdolescents\nAdultes"
+  een: ""
+  ei_1: ""
+  ei_2: ""
+avaxim:
+  public: "80 U : enfants et adolescents de 1 à 15 ans\n160 U : Adultes et adolescents à partir de 16 ans"
+  een: "&Eacute;thanol, phénylalanine"
+  ei_1: "Pleurs anormaux, douleur au site d'injection"
+  ei_2: "Diminution de l'appétit, irritabilité, insomnie, céphalées, douleurs abdominales, diarrhées, nausées, vomissements, arthralgie, myalgie, au site d'injection : rougeur, induration ou oedème, hématome"
+bexsero:
+  public: "Nourrissons à partir de 2 mois"
+  een: "Caoutchouc naturel"
+  ei_1: "Troubles alimentaires\nSomnolence\nPleurs\nCéphalée\nDiarrhée\nVomissements\nArthralgies\nFièvre (≥ 38 °C)\nAu site d'injection : sensibilité, érythème, gonflement, induration, irritabilité"
+  ei_2: "Rash"
+boostrixtetra:
+  public: "Enfants\nAdolescents\nAdultes"
+  een: ""
+  ei_1: ""
+  ei_2: ""
+cervarix:
+  public: "Enfants de 11 à 15 ans\nAdultes jusqu'à 19 ans"
+  een: ""
+  ei_1: ""
+  ei_2: ""
+engerix:
+  public: "B10 µg : Enfants et adolescents de 1 à 15 ans\nB20 µg : Adultes et adolescents à partir de 18 ans"
+  een: "-"
+  ei_1: "Irritabilité, céphalées, douleur et rougeur au site d'injection, fatigue"
+  ei_2: "Perte d'appétit, somnolence, symptômes gastro-intestinaux (tels que : nausées, vomissements, diarrhées, douleurs abdominales), fièvre (≥ 37,5 °C), malaise, au site d'injection : gonflement, induration"
+gardasil:
+  public: "Enfants de 11 à 15 ans\nAdultes jusqu'à 19 ans (26 ans chez les hommes ayant des relations sexuelles avec des hommes)."
+  een: ""
+  ei_1: ""
+  ei_2: ""
+havrix:
+  public: "720 U: Enfants et adolescents de 1 à 15 ans\n1440 U : Adultes et adolescents à partir de 16 ans"
+  een: "Phénylalanine"
+  ei_1: "Irritabilité, céphalées, douleur et rougeur au site d'injection, fatigue"
+  ei_2: "Perte d'appétit, somnolence, symptômes gastro-intestinaux (diarrhées, nausées, vomissements), malaise, fièvre (≥ 37,5 °C), réaction au site d'injection (par exemple gonflement ou induration)"
+hbvaxpro:
+  public: "5 µg : Enfants et adolescents de 1 à 15 ans\n10 µg : Adultes et adolescents à partir de 18 ans"
+  een: "Caoutchouc naturel"
+  ei_1: "-"
+  ei_2: "Réactions locales (au site d'injection) : douleur transitoire, érythème, induration"
+hexyon:
+  public: "Nourrissons"
+  een: ""
+  ei_1: ""
+  ei_2: ""
+infanrixhexa:
+  public: "Nourrissons"
+  een: ""
+  ei_1: ""
+  ei_2: ""
+infanrixquinta:
+  public: "Nourrissons"
+  een: ""
+  ei_1: ""
+  ei_2: ""
+infanrixtetra:
+  public: "Enfants"
+  een: ""
+  ei_1: ""
+  ei_2: ""
+menjugate:
+  public: "Nourrissons à partir de 2 mois"
+  een: ""
+  ei_1: ""
+  ei_2: ""
+menquadfi:
+  public: "À partir de 12 mois"
+  een: "-"
+  ei_1: "Céphalées\nMyalgies\nMalaise"
+  ei_2: "Au site d'injection : gonflement, érythème\nFièvre"
+menveo:
+  public: "À partir de 2 ans"
+  een: "-"
+  ei_1: "Somnolence et céphalée\nMalaise et irritabilité"
+  ei_2: "Trouble alimentaire\nRash\nMyalgies et arthralgies\nAu site d'injection : douleur, érythème, induration"
+neisvac:
+  public: "Nourrissons à partir de 2 mois"
+  een: ""
+  ei_1: ""
+  ei_2: ""
+nimenrix:
+  public: "À partir de 6 semaines"
+  een: "-"
+  ei_1: "Perte d'appétit\nIrritabilité\nSomnolence et céphalées\nFièvre\nFatigue\nAu site d'injection : gonflement, douleur, rougeur"
+  ei_2: "Diarrhées, vomissements, nausées\nAu site d'injection : hématome"
+pentavac:
+  public: "Nourrissons"
+  een: ""
+  ei_1: ""
+  ei_2: ""
+pneumovax:
+  public: "À partir de 2 ans"
+  een: ""
+  ei_1: ""
+  ei_2: ""
+prevenar:
+  public: "À partir de 2 mois"
+  een: ""
+  ei_1: ""
+  ei_2: ""
+rabipur:
+  public: "Nourrissons, enfants, adultes"
+  een: ""
+  ei_1: ""
+  ei_2: ""
+repevax:
+  public: "Enfants\nAdolescents\nAdultes"
+  een: ""
+  ei_1: ""
+  ei_2: ""
+spirolept:
+  public: "Adultes"
+  een: ""
+  ei_1: ""
+  ei_2: ""
+tetravac:
+  public: "Enfants\nAdolescents\nAdultes"
+  een: ""
+  ei_1: ""
+  ei_2: ""
+trumenba:
+  public: "Enfants à partir de 10 ans\nAdultes"
+  een: "-"
+  ei_1: "Céphalées\nDiarrhée et nausées\nMyalgies et arthralgies\nFrissons, fatigue\nAu site d'injection : gonflement (induration), rougeur (érythème) et douleur"
+  ei_2: "Vomissements\nFièvre ≥ 38 °C"
+twinrix:
+  public: "Adultes et adolescents à partir de 16 ans"
+  een: "Traces de néomycine"
+  ei_1: "Céphalées, douleur et rougeur au site d'injection, fatigue"
+  ei_2: "Symptômes gastro-intestinaux, diarrhée, nausées, gonflement au site d'injection, réactions au site d'injection (comme hématome, prurit et ecchymose), malaise"
+tyavax:
+  public: "Adultes et adolescents à partir de 16 ans"
+  een: "&Eacute;thanol, phénylalanine"
+  ei_1: "Céphalées, myalgies, malaise, asthénie, troubles au site d'injection (douleur, induration, œdème, érythème)"
+  ei_2: "Nausées, diarrhées, arthralgies"
+vaccin_rabique_pasteur:
+  public: "Nourrissons, enfants et adultes"
+  een: ""
+  ei_1: ""
+  ei_2: ""
+vaqta:
+  public: "Adultes"
+  een: "Caoutchouc naturel"
+  ei_1: "Sensibilité au site d'injection: douleur, chaleur, gonflement, érythème"
+  ei_2: "Céphalées, douleur du bras ayant reçu l'injection, asthénie/fatigue, fièvre (température orale ≥ 38,3 °C), ecchymose au site d'injection, douleur/endolorissement"
+vaxelis:
+  public: "Nourrissons"
+  een: ""
+  ei_1: ""
+  ei_2: ""

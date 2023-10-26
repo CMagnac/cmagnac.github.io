@@ -1,0 +1,35 @@
+mmrvaxpro:
+  public: "Nourrissons<br>Enfants<br>Adultes"
+  een: "Sorbitol<br>Caoutchouc naturel"
+  ei_1: "Fièvre ≥ 38.5 °C<br>Au site d'injection: érythème, douleur, œdème"
+  ei_2: "&Eacute;ruption morbilliforme ou autre éruption<br>Ecchymose au site d'injection"
+priorix:
+  public: "Nourrissons<br>Enfants<br>Edultes"
+  een: "Phénylalanine<br>Sorbitol<br>Acide para-aminobenzoïque<br>Caoutchouc"
+  ei_1: "Érythème au site d'injection<br>Fièvre ≥ 38 °C (rectale) ou ≥ 37,5 °C (axillaire/orale)"
+  ei_2: "Douleur et gonflement au site d'injection<br>Fièvre > 39,5 °C (rectale) ou > 39 °C (axillaire/orale)<br>&Eacute;ruption cutanée<br>Infection des voies respiratoires supérieures"
+rotarix:
+  public: "Nourrissons de 6 à 24 semaines"
+  een: "Saccharose<br>Sodium"
+  ei_1: "-"
+  ei_2: "Diarrhée<br>Irritabilité"
+rotateq:
+  public: "Nourrissons de 6 à 32 semaines"
+  een: "Saccharose<br>Sodium"
+  ei_1: "Diarrhées<br>Vomissements<br>Fièvre"
+  ei_2: "Infection respiratoire haute"
+varilrix:
+  public: "Adultes et enfants à partir de 12 mois"
+  een: "Sorbitol"
+  ei_1: "Douleur<br>&Eacute;rythème"
+  ei_2: "Éruption cutanée<br>Pyrexie (température orale/axillaire ≥ 37,5 °C ou température rectale ≥ 38,0 °C)<br>gonflement au site d'injection"
+varivax:
+  public: "Adultes et enfants à partir de 12 mois"
+  een: "Traces de néomycine"
+  ei_1: "Fièvre"
+  ei_2: "Infection respiratoire haute<br>Eruption<br>&Eacute;ruption maculopapuleuse<br>&Eacute;ruption de type varicelle<br>Au site d'injection : érythème, éruption, douleur/sensibilité, gonflement et éruption de type varicelle<br>Irritabilité"
+zostavax:
+  public: "Adultes à partir de 50 ans"
+  een: "Traces de néomycine"
+  ei_1: "Site d'injection : érythème, douleur/sensibilité au toucher à la pression, prurit, gonflement"
+  ei_2: "Céphalées<br>&Eacute;ruption cutanée<br>Arthralgies<br>Myalgies<br>Douleurs des extrémités<br>Au site d'injection : induration, hématome, chaleur, éruption cutanée, fièvre"
