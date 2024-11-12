@@ -11,7 +11,7 @@
 #   sort_reverse: true
 
 # jekyll-paginate configuration
-# paginate:            5
+paginate:  5
 
 # Build settings
 markdown:  kramdown
@@ -21,7 +21,7 @@ plugins:  [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:  "Sentinelle"
-description:  "Un site d'informations"
+description:  "Partager l'information"
 author:  "Cyrille"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
