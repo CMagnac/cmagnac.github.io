@@ -1,0 +1,25 @@
+---
+layout: page
+---
+<div style="overflow-x:auto;">
+
+<table class="table-page">
+    <thead>
+    
+        <tr class="header">
+            <th>Banque</th>
+            <th>Description</th>
+            <th>Auteur</th>
+        </tr>
+    </thead>
+    {%- for values in site.data.images -%}
+    <tbody>
+        <tr>
+          <td>{{ values.bank }}</td>
+          <td>{{ values.description }}</td>
+          <td>{{ values.author }}</td>
+        </tr>
+    {% endfor %}
+    </tbody>
+</table>
+</div>

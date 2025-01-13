@@ -22,7 +22,12 @@ layout: default
       {% endfor %}
     </div>
   </div>
-    
+  <!-- {% if page.image %}
+  <figure class="in-post-image-container">
+    <img src="{{ site.image_path }}/{{ page.image }}" class="in-post-image">
+    <figcaption>{{ page.caption }}</figcaption>
+  </figure>
+  {% endif %} -->
   <div class="entry">
     {{ content }}
   </div>
