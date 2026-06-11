@@ -143,6 +143,20 @@ const testimonialSectionCollection = defineCollection({
   }),
 });
 
+const projectsCollection = defineCollection({
+  loader: glob({
+    pattern: "**/*.{md,mdx}",
+    base: "src/content/projects",
+  }),
+  schema: z.object({
+    title: z.string(),
+    description: z.string().optional(),
+    draft: z.boolean().optional(),
+    github_url: z.string().optional(),
+    demo_url: z.string().optional(),
+  }),
+});
+
 // Export collections
 export const collections = {
   // Pages
@@ -152,6 +166,7 @@ export const collections = {
   pages: pagesCollection,
   about: aboutCollection,
   contact: contactCollection,
+  projects: projectsCollection,
 
   // sections
   ctaSection: ctaSectionCollection,
