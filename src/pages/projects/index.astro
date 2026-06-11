@@ -1,0 +1,69 @@
+---
+import Base from "@/layouts/Base.astro";
+import { getSinglePage } from "@/lib/contentParser.astro";
+import { sortByDate } from "@/lib/utils/sortFunctions";
+
+const buildDrafts = process.argv.includes("--buildDrafts");
+
+const projects = sortByDate(await getSinglePage("projects")).filter(
+(project) => buildDrafts || !project.data.draft,
+);
+---
+
+<Base title="Projects">
+  <section class="py-16 md:py-24">
+    <div class="container">
+      <div class="mx-auto max-w-4xl text-center">
+        <h1 class="text-4xl font-bold tracking-tight sm:text-5xl">
+          Projects
+        </h1>
+
+    <p class="mt-6 text-lg text-muted-foreground">
+      A collection of software projects, experiments and healthcare-focused
+      applications built with modern web technologies and AI-assisted
+      development.
+    </p>
+  </div>
+
+  <div class="mt-16 space-y-8">
+    {projects.map((project) => (
+      <article class="rounded-2xl border border-border p-8">
+        <h2 class="text-2xl font-semibold">
+          {project.data.title}
+        </h2>
+
+        {project.data.description && (
+          <p class="mt-4 text-muted-foreground">
+            {project.data.description}
+          </p>
+        )}
+
+        <div class="mt-6 flex flex-wrap gap-4">
+          {project.data.github_url && (
+            <a
+              href={project.data.github_url}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="font-medium text-primary hover:underline"
+            >
+              GitHub Repository →
+            </a>
+          )}
+
+          {project.data.demo_url && (
+            <a
+              href={project.data.demo_url}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="font-medium text-primary hover:underline"
+            >
+              Live Demo →
+            </a>
+          )}
+        </div>
+      </article>
+    ))}
+  </div>
+</div>
+  </section>
+</Base>
