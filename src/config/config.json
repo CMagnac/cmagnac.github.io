@@ -1,21 +1,21 @@
 {
   "site": {
-    "title": "Astroplate",
-    "base_url": "https://astroplate.netlify.app",
+    "title": "The Pharmacist Diaries",
+    "base_url": "https://cmagnac.github.io",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
-    "logo_darkmode": "/images/logo-darkmode.png",
-    "logo_width": "150",
-    "logo_height": "30",
-    "logo_text": "Astroplate"
+    "favicon": false,
+    "logo": false,
+    "logo_darkmode": false,
+    "logo_width": false,
+    "logo_height": false,
+    "logo_text": false
   },
 
   "settings": {
     "search": true,
     "sticky_header": true,
-    "theme_switcher": true,
+    "theme_switcher": false,
     "default_theme": "system",
     "pagination": 2,
     "summary_length": 200,
@@ -23,7 +23,7 @@
   },
 
   "announcement": {
-    "enable": true,
+    "enable": false,
     "content": "<span class='text-center block'>♥️ Loving Astroplate? <a class='underline' href='https://github.com/zeon-studio/astroplate' target='_blank' rel='noopener'>Please ⭐️ on Github</a></span>",
     "expire_days": 7
   },
@@ -36,7 +36,7 @@
   "navigation_button": {
     "enable": true,
     "label": "Github",
-    "link": "https://github.com/zeon-studio/astroplate"
+    "link": "https://github.com/CMagnac"
   },
 
   "google_tag_manager": {
@@ -45,15 +45,15 @@
   },
 
   "disqus": {
-    "enable": true,
+    "enable": false,
     "shortname": "themefisher-template",
     "settings": {}
   },
 
   "metadata": {
-    "meta_author": "zeon.studio",
+    "meta_author": "cmagnac",
     "meta_image": "/images/og-image.png",
-    "meta_description": "astro and tailwind boilerplate"
+    "meta_description": "french pharmacist website"
   },
 
   "llms": {
