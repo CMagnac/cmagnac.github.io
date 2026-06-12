@@ -9,7 +9,7 @@ import "@/styles/main.css";
 import { Font } from "astro:assets";
 import { ClientRouter } from "astro:transitions";
 import Announcement from "./helpers/Announcement";
-import SearchModal from "./helpers/SearchModal";
+
 
 // font families - extract font names for Font component (filter out type keys)
 const fontEntries = Object.entries(theme.fonts.font_family).filter(
@@ -147,7 +147,6 @@ const { title, meta_title, description, image, noindex, canonical } =
   <body class="flex flex-col min-h-screen">
     <Announcement client:only="react" />
     <Header />
-    <SearchModal client:only="react" />
     <main class="grow" id="main-content">
       <slot />
     </main>
