@@ -44,7 +44,7 @@ const { title, description, author, categories, image, date, tags } = post.data;
               {humanize(author)}
             </a>
           </li>
-          <li class="mr-4 inline-block">
+          <!-- <li class="mr-4 inline-block">
             <FaRegFolder className={"mr-2 -mt-1 inline-block"} />
             {
               categories.map((category: string, index: number) => (
@@ -54,7 +54,7 @@ const { title, description, author, categories, image, date, tags } = post.data;
                 </a>
               ))
             }
-          </li>
+          </li> -->
           <li class="mr-4 inline-block">
             <FaRegClock className={"mr-2 -mt-1 inline-block"} />
             {dateFormat(date)}
@@ -63,7 +63,7 @@ const { title, description, author, categories, image, date, tags } = post.data;
         <div class="content mb-10">
           <Content />
         </div>
-        <div class="row items-start justify-between">
+        <!-- <div class="row items-start justify-between">
           <div class="mb-10 flex items-center lg:col-5 lg:mb-0">
             <h5 class="mr-3">Tags :</h5>
             <ul>
@@ -90,12 +90,12 @@ const { title, description, author, categories, image, date, tags } = post.data;
               slug={post.id}
             />
           </div>
-        </div>
+        </div> -->
       </article>
     </div>
 
     <!-- Related posts -->
-    <div class="section pb-0">
+    <!-- <div class="section pb-0">
       <h2 class="h3 mb-12 text-center">Related Posts</h2>
       <div class="row justify-center">
         {
@@ -106,6 +106,6 @@ const { title, description, author, categories, image, date, tags } = post.data;
           ))
         }
       </div>
-    </div>
+    </div> -->
   </div>
 </section>

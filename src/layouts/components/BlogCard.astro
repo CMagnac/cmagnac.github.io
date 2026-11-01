@@ -38,7 +38,7 @@ const { title, image, date, author, categories } = data.data;
         {humanize(author)}
       </a>
     </li>
-    <li class="mr-4 inline-block">
+    <!-- <li class="mr-4 inline-block">
       <FaRegFolder className={"mr-2 -mt-1 inline-block"} />
       {
         categories.map((category: string, index: number) => (
@@ -48,7 +48,7 @@ const { title, image, date, author, categories } = data.data;
           </a>
         ))
       }
-    </li>
+    </li> -->
     {date && <li class="inline-block">{dateFormat(date)}</li>}
   </ul>
   <p class="mb-6">{plainify(data.body?.slice(0, Number(summary_length)))}</p>

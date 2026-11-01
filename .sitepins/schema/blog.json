@@ -41,24 +41,10 @@
       "defaultValue": ""
     },
     {
-      "name": "categories",
-      "label": "Categories",
-      "type": "Array",
-      "value": [],
-      "defaultValue": ""
-    },
-    {
       "name": "author",
       "label": "Author",
       "type": "string",
       "value": "",
-      "defaultValue": ""
-    },
-    {
-      "name": "tags",
-      "label": "Tags",
-      "type": "Array",
-      "value": [],
       "defaultValue": ""
     },
     {

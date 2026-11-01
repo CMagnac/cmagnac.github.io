@@ -19,12 +19,8 @@
   ],
   "footer": [
     {
-      "name": "Elements",
-      "url": "/elements"
-    },
-    {
       "name": "Privacy Policy",
-      "url": "/privacy-policy"
+      "url": "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement"
     }
   ]
 }
