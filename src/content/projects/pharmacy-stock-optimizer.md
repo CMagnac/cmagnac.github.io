@@ -2,7 +2,7 @@
 title: "Un outil d'analyse et de suivi des stocks en pharmacie"
 description: "Un projet Python pour analyser les stocks et explorer des méthodes d'optimisation en pharmacie d'officine."
 github_url: "https://github.com/CMagnac/pharmacy-stock-optimizer"
-demo_url: false
+demo_url: ""
 featured: true
 draft: false
 ---
