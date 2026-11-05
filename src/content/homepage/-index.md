@@ -12,22 +12,16 @@ banner:
 # Features
 features:
   - title: "My Projects"
-    image: "/images/myproject.jpg"
+    image: "/images/project.jpg"
     content: "I believe AI will bring a major shift to pharmacy practice over the next decade. I want to explore that transformation through code, data, experimentation, and real-world pharmacy problems."
-    bulletpoints:
-      - "Project 1"
-      - "Project 2"
     button:
       enable: True
       label: "Explore my projects"
       link: "/projects"
 
   - title: "My Blog"
-    image: "/images/myblog.jpg"
+    image: "/images/blog.jpg"
     content: "I write about pharmacy, technology, strategy, learning, and sometimes the connections between them. Some articles are written in English, others in French. Enjoy the journey."
-    bulletpoints:
-      - "Blog post 1"
-      - "Blog post 2"
     button:
       enable: true
       label: "Blog"
