@@ -13,7 +13,7 @@ banner:
 features:
   - title: "My Projects"
     image: "/images/project.jpg"
-    content: "I believe AI will bring a major shift to pharmacy practice over the next decade. I want to explore that transformation through code, data, experimentation, and real-world pharmacy problems."
+    content: "I believe AI will bring a major shift to pharmacy practice over the next decade. I explore that transformation through code, data, experimentation, and real-world pharmacy problems."
     button:
       enable: True
       label: "Explore my projects"
@@ -21,7 +21,7 @@ features:
 
   - title: "My Blog"
     image: "/images/blog.jpg"
-    content: "I write about pharmacy, technology, strategy, learning, and sometimes the connections between them. Some articles are written in English, others in French. Enjoy the journey."
+    content: "I write about pharmacy, technology, strategy and learning. Some articles are written in English, others in French. Enjoy the journey."
     button:
       enable: true
       label: "Blog"

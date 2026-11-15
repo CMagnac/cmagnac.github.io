@@ -27,21 +27,9 @@
     "label": "Github",
     "link": "https://github.com/CMagnac"
   },
-
-  "google_tag_manager": {
-    "enable": false,
-    "gtm_id": "GTM-XXXXXX"
-  },
-
-  "disqus": {
-    "enable": false,
-    "shortname": "themefisher-template",
-    "settings": {}
-  },
-
   "metadata": {
     "meta_author": "cmagnac",
-    "meta_image": "/images/og-image.png",
+    "meta_image": "",
     "meta_description": "french pharmacist website"
   },
 
